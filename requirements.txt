@@ -1,1 +1,1 @@
-tensorflow-cpu
+tensorflow==2.10
